@@ -16,7 +16,7 @@ To visualize sales performance across different regions and help understand busi
 
 ## Power BI Dashboard
 
-![Sales Data Visualization & Storytelling Dashboard](.png)       Power BI Dashboard
+![Sales Data Visualization & Storytelling Dashboard](https://github.com/Sanjay-ui973/Sales-Data-Visualization-Storytelling/blob/main/SDVS.Screenshot.png)       Power BI Dashboard
   
 ## Dashboard Features
 
