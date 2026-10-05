@@ -14,6 +14,10 @@ To visualize sales performance across different regions and help understand busi
 * Microsoft Excel
 * CSV Dataset
 
+## Power BI Dashboard
+
+![Sales Data Visualization & Storytelling Dashboard](.png)       Power BI Dashboard
+  
 ## Dashboard Features
 
 * Sales performance analysis
